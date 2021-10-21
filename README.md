@@ -34,7 +34,7 @@
 - Запустить контейнер с нашим образом:   
   `docker run -p 8081:8081 docker.io/library/task`
 ***
-## Endpoints
+## Endpoint
 - `/api/gif`  
   Возвращает гифку в зависимости от выбранной валюты   
   **Parameters**   
